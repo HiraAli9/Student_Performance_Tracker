@@ -21,7 +21,7 @@ The Student Performance Tracker is a Python-based program designed to manage stu
 git clone https://github.com/yourusername/student-performance-tracker.git  
 Or, download and extract the ZIP file of the project manually.
 2. Navigate to the project directory:
-3. cd student-performance-tracker
+ cd student-performance-tracker
 ### Step 3: Run the Program
 Execute the Python script in the terminal or command prompt:  
 python student_tracker.py  
