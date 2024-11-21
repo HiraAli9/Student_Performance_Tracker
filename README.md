@@ -26,14 +26,38 @@ cd student-performance-tracker
 Execute the Python script in the terminal or command prompt:
 python student_tracker.py  
 # How to Use
-1.Start Adding Students:  
+### 1.Start Adding Students:  
 Enter the student's name and their scores for Math, Science, and English when prompted.  
 Type done to finish adding students.
-2.View Results:  
+### 2.View Results:  
 After entering the data, the program displays:  
 Individual performance (Name, Average Score, Status).  
 Overall class average.  
-3.Repeat or Exit:  
+### 3.Repeat or Exit:  
 To restart, rerun the script.
+# Example Usage
+Add a New Student (or type 'done' to finish):  
+Enter student name: Alice  
+Enter Math score: 85  
+Enter Science score: 90  
+Enter English score: 88  
+Added Alice successfully!  
+  
+Add a New Student (or type 'done' to finish):  
+Enter student name: Bob  
+Enter Math score: 70  
+Enter Science score: 65  
+Enter English score: 72  
+Added Bob successfully!  
+Add a New Student (or type 'done' to finish):  
+Enter student name: done  
+  
+### Student Performance Summary:
+----------------------------------------
+### Name: Alice, Average: 87.67, Status: Passing
+### Name: Bob, Average: 69.00, Status: Passing
+----------------------------------------
+
+Class Average Score: 78.33
 
 
