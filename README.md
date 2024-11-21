@@ -60,10 +60,10 @@ Enter student name: done
 
 Class Average Score: 78.33
 # Notes
-Input Validation: Ensure all scores are integers between 0 and 100.  
-Custom Passing Criteria: Update the is_passing method in the Student class to adjust the passing conditions.
+### Input Validation: Ensure all scores are integers between 0 and 100.  
+### Custom Passing Criteria: Update the is_passing method in the Student class to adjust the passing conditions.
 # Dependencies
-This project does not require additional libraries or packages.  
-Built-in Python functions are used.
+- This project does not require additional libraries or packages.  
+- Built-in Python functions are used.
 
 
